@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1504571896 source:c:\users\alumno\desktop\arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1504573300 source:c:\users\alumno\desktop\arrays\arrays3.c
+	<stdio.h>
+
